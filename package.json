@@ -10,7 +10,7 @@
     "url": "https://github.com/amuletml/amulet-vscode"
   },
   "engines": {
-    "vscode": "^1.39.0"
+    "vscode": "^1.43.0"
   },
   "categories": [
     "Programming Languages"
@@ -86,11 +86,11 @@
     "check": "tslint -p ./"
   },
   "dependencies": {
-    "vscode-languageclient": "^6.1.0"
+		"vscode-languageclient": "^6.1.3"
   },
   "devDependencies": {
     "@types/node": "^8.0.0",
-    "@types/vscode": "^1.42.0",
+		"@types/vscode": "^1.43.0",
     "tslint": "^5.16.0",
     "typescript": "^3.7.5"
   }
